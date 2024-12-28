@@ -22,7 +22,11 @@ Calculate Lipinski descriptors
 		-> Hydrogen bond acceptors < 10
 
 
-Bioinformatics Project - Computational Drug Discovery [Part 5] Comparing Regressors
+
+
+
+
+Bioinformatics Project - Computational Drug Discovery Comparing Regressors
 --------------------------------------------------------------------------------------
 
 Model Training and Evaluation with LazyRegressor
